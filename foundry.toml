@@ -1,0 +1,21 @@
+[default]
+optimizer = true
+optimizer_runs = 10000
+ffi = true
+fuzz_runs = 256
+fuzz_max_local_rejects = 999999999
+fuzz_max_global_rejects = 999999999
+evm_version = 'london'
+auto_detect_solc = true
+cache = true
+force = false
+remappings = [
+    '@solmate/=lib/solmate/src/',
+    '@forge-std/=lib/forge-std/src/',
+    '@src/=src/',
+    '@mocks/=test/mocks/',
+    '@test=test/',
+]
+
+[ci]
+fuzz_runs = 8192
