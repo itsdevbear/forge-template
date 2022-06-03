@@ -2,11 +2,11 @@
 
 **Template repository for getting started quickly with Foundry projects**
 
-![Github Actions](https://github.com/itsdevbear/foundry-template/workflows/CI/badge.svg)
+![Github Actions](https://github.com/itsdevbear/forge-template/workflows/CI/badge.svg)
 
 ## Getting Started
 
-Click "Use this template" on [GitHub](https://github.com/itsdevbear/foundry-template) to create a new repository with this repo as the initial state.
+Click "Use this template" on [GitHub](https://github.com/itsdevbear/forge-template) to create a new repository with this repo as the initial state.
 
 Or, if your repo already exists, run:
 

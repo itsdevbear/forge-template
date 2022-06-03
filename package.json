@@ -1,5 +1,5 @@
 {
-  "name": "foundry-template",
+  "name": "forge-template",
   "version": "1.0.0",
   "description": "a feature rich template for utilizing the foundry smart contract framework",
   "files": [
@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/berachain/foundry-template.git"
+    "url": "git+https://github.com/berachain/forge-template.git"
   },
   "devDependencies": {
     "prettier": "^2.3.1",
